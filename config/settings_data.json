@@ -1,6 +1,7 @@
 {
   "current": {
-    "font_headings": "roboto_n4",
+    "favicon": "shopify:\/\/shop_images\/logo_far_bkg_mov.png",
+    "font_headings": "dosis_n4",
     "social_facebook": "#",
     "social_twitter": "#",
     "social_instagram": "#",
@@ -9,6 +10,7 @@
     "social_snapchat": "#",
     "social_youtube": "#",
     "social_linkedin": "#",
+    "checkout_logo_image": "shopify:\/\/shop_images\/logo_far_bkg_mov.png",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -22,7 +24,7 @@
       "navbar": {
         "type": "navbar",
         "settings": {
-          "bg_color": "bg-white navbar-light",
+          "bg_color": "bg-light navbar-light",
           "logo": "shopify:\/\/shop_images\/logo_scris_mov.png",
           "menu_mobile": "main-menu",
           "menu_desktop": "main-menu",
