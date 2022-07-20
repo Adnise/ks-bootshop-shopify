@@ -21,13 +21,13 @@
           "type": "slide",
           "settings": {
             "img_opacity": 0.7,
-            "title": "Simple to Use, Easy to Customize",
+            "title": "La prima comanda facem noi cinste!",
             "title_size": "h2",
-            "description": "<p>Free Shopify Theme powered by Bootstrap v5 framework<\/p>",
+            "description": "<p>Foloseste codul <strong>STRAP10<\/strong> pentru a beneficia de 10% reducere la prima comanda!<\/p>",
             "description_size": "fs-5",
-            "btn_text": "Download FREE",
-            "btn_url": "https:\/\/github.com\/kondasoft\/ks-bootshop",
-            "btn_color": "btn-dark",
+            "btn_text": "Vezi produse",
+            "btn_url": "shopify:\/\/collections\/all",
+            "btn_color": "btn-light",
             "btn_size": ""
           }
         }
@@ -51,11 +51,11 @@
         "recommended_mode": false,
         "collection": "men",
         "limit": 8,
-        "bg_color": "bg-white text-dark",
+        "bg_color": "bg-white",
         "text_align": "text-center",
         "title": "Featured Products",
         "title_size": "h2",
-        "btn_text": "View all products",
+        "btn_text": "Vezi toate produsele",
         "btn_color": "btn-primary",
         "row_sm": 2,
         "row_lg": 4,
